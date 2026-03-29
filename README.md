@@ -48,14 +48,5 @@ pytest tests.py -v
 
 ---
 
-## 🗂️ Estructura de Clases
-```
-Nave (abstract)
-├── EstacionEspacial
-├── NaveEstelar  ──── también hereda de UnidadCombate (abstract)
-└── CazaEstelar  ──── también hereda de UnidadCombate (abstract)
 
-Almacen
-└── gestiona ──── Repuesto (1..n)
-```
 
