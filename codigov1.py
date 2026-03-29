@@ -164,7 +164,7 @@ class Almacen:
         
         raise RepuestoNoEncontrado(f"La pieza '{nombre_pieza}' no está disponible en este almacén.")
 
-# Prueba de un escenario posible en el main, donde se configuran el almacén, la flota y se procesan órdenes de mantenimiento, demostrando así la funcionalidad completa del sistema de gestión de flota imperial.
+# Prueba de un escenario donde se configuran el almacén, la flota y se procesan órdenes de mantenimiento, demostrando así la funcionalidad completa del sistema de gestión de flota imperial.
 if __name__ == "__main__":
     print("=== SISTEMA DE GESTIÓN DE FLOTA IMPERIAL: ESTADO OPERATIVO ===\n")
 
