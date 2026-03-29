@@ -11,7 +11,8 @@ Primera práctica entregable de la asignatura **Programación para Ciencia de Da
 | `codigov1.py` | Código principal con la lógica de naves, unidades de combate y almacenes |
 | `tests.py` | Pruebas unitarias desarrolladas con `pytest` |
 | `Diagramas_UML/` | Diagramas de clases, casos de uso y secuencia diseñados con UMLet |
-| `Documentacion_Git.docx` | Capturas de los comandos Git ejecutados y URL del repositorio |
+| `Documentacion_Git.pdf` | Capturas de los comandos Git ejecutados y URL del repositorio |
+| `image | Capturas de git añadidas al pdf |
 
 ---
 
